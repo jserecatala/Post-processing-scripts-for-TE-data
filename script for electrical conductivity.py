@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 30 11:16:29 2018
-
 @author: jr1n16
 """
 import time
